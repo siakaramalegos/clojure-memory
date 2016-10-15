@@ -60,8 +60,8 @@ article, aside, canvas, details, figcaption, figure, footer, header, hgroup, men
 /* Element */
 html, body { height: 100%; width: 100%; }
 body { background-color: #e7e7e7; font-family: 'Noto Sans', 'Courier New'; font-size: 16px; padding: 20px; }
-h1 { color: red; font-size: 5em; }
-h2 { font-size: 3em; }
+h1 { color: red; font-size: 3em; }
+h2 { font-size: 2em; }
 
 button { font-size: 16px; margin-top: 0.5em;}
 

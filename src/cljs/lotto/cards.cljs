@@ -7,7 +7,6 @@
    :north-wind          "🀃"
    :red-dragon          "🀄"
    :green-dragon        "🀅"
-   :white-dragon        "🀆"
    :one-of-characters   "🀇"
    :two-of-characters   "🀈"
    :three-of-characters "🀉"
